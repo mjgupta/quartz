@@ -2,7 +2,8 @@ name: Mritunjay
 enableToc: true
 enableLinkPreview: true
 description:
-  memex
+  Here is the page description. This is an example Quartz site that details installation,
+  setup, customization, and troubleshooting for Quartz itself.
 page_title:
   "jay's notes"
 links:
