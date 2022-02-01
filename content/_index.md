@@ -7,3 +7,5 @@ title: "jay's musings"
 - Use backlinks
 - Random Note
 - See notes by tags :
+- [bufferbloat-and-beyond](bufferbloat-and-beyond.pdf)
+- [TCP BBR](TCP%20BBR.md)
